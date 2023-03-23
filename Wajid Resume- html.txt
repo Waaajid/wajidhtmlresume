@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Wajid Khan - Resume</title>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<style>
+		body {
+			font-family: Arial, sans-serif;
+			font-size: 16px;
+			line-height: 1.5;
+			margin: 0;
+			padding: 0;
+			background-color: #f2f2f2;
+		}
+		.container {
+			max-width: 800px;
+			margin: 0 auto;
+			padding: 20px;
+			background-color: #ffffff;
+			box-shadow: 0px 0px 10px rgba(0,0,0,0.2);
+			border-radius: 5px;
+			box-sizing: border-box;
+		}
+		h1 {
+			font-size: 24px;
+			font-weight: bold;
+			margin-bottom: 10px;
+		}
+		h2 {
+			font-size: 20px;
+			font-weight: bold;
+			margin-bottom: 10px;
+		}
+		h3 {
+			font-size: 18px;
+			font-weight: bold;
+			margin-bottom: 10px;
+		}
+		ul {
+			margin: 0;
+			padding: 0;
+			list-style: none;
+		}
+		ul li {
+			margin-bottom: 10px;
+		}
+		ul.skills li {
+			display: inline-block;
+			margin-right: 10px;
+			margin-bottom: 10px;
+			padding: 5px 10px;
+			border: 1px solid #ccc;
+			border-radius: 20px;
+			font-size: 14px;
+			font-weight: bold;
+			color: #333333;
+			background-color: #f2f2f2;
+		}
+	</style>
+</head>
+<body>
+	<h1>Wajid Khan</h1>
+	<p>Guildford GU2 9PL<br>
+	wajithkhan05@yahoo.com<br>
+	+44 7901 355283</p>
+
+	<h2>Personal Details</h2>
+	<p>Industry: Analytics, Business Operations, Call Centre, Human Resources, Laboratory, Production & Manufacturing, Transportation Services<br>
+	Total years of experience: 3</p>
+
+	<h2>Work Experience</h2>
+	<h3>HR Executive</h3>
+	<p>Amazon Development Centre Private Limited - Hyderabad, Telangana<br>
+	March 2022 to December 2022</p>
+	<ul>
+		<li>Human Resources associate in Employee Resource center.</li>
+		<li>First point of contact for the NACF ( North American Fulfilment centers ) employees for scheduling and STD payments.</li>
+		<li>Ownership of Employees data to allocate leave balances and shift slots.</li>
+		<li>Understanding the local state laws and medical related regulations across America.</li>
+		<li>POC for employees to request Accommodation services and benefits.</li>
+		<li>Creating and managing cases of employees pertaining to their requests for payments, leave of absence and paid and non paid time-offs.</li>
+		<li>Assisting employees with their state benefits.</li>
+	</ul>
+
+	<h3>Product Expert</h3>
+	<p>Full Creative - Chennai, Tamil Nadu<br>
+	2022 to March 2022</p>
+	<ul>
+		<li>First point of contact for the clients who use Setmore - an appointment scheduling app for all type of business.</li>
+		<li>Troubleshooting and diagnostics for the apps using web tools.</li>
+		<li>Client onboarding and account management.</li>
+		<li>Helping client with the database to grow business.</li>
+	</ul>
+
+	<h3>Associate Manager- Procurement and Sales</h3>
+	<p>RKS Merchants - Krishnagiri, Tamil Nadu<br>
+	May 2020 to December 2021</p>
+	<ul>
+		<li>Responsible for purchasing of Raw mangoes from farmers and small vendors.</li>
+		<li>Procurement of mangoes from farms and grading them for quality.</li>
+		<li>Responsible for sales of goods and transportation for retail.</li>
+		<li>Assigning tasks for the employees based on the business requirements.</li>
+		<li>Handling accounts and finance data for auditing.</li>
+		<li>Responsible for transport and supply chain.</li>
+		<li>Negotiating with clients and vendors for the billing and purchasing.</li>
+	</ul>
+
+	<h2>Education</h2>
+	<ul>
+		<li>Master's degree in Entrepreneurship<br>
+		University Of Surrey - Guildford<br>
+		February 2023 to Present</li>
+		<li>Bachelor's degree in Civil Engineering<br>
+		College Of Engineering, Guindy - Tamil Nadu<br>
+		July 2016 to May 2020</li>
+	</ul>
+
+	<h2>Skills</h2>
+	<ul>
+		<li>Human resources</li>
+		<li>Communication skills</li>
+		<li>Training & development</li>
+		<li>Workforce management</li>
+		<li>Software troubleshooting</li>
+		<li>Business management</li>
+		<li>Business analysis</li>
+		<li>Transportation management</li>
+		<li>Employee Relations</li>
+		<li>Microsoft excel</li>
+		<li>ADP</li>
+		<li>Benefit administration</li>
+		<li>sales</li>
+	</ul>
+		
+	<h2>Languages</h2>
+	<ul>
+	    <li>Hindi-Fluent</li>
+		<li>Tamil-Fluent</li>
+		<li>English-Fluent</li>
+	</ul>
+	
+	<h2>Certifications and Licenses</h2>
+	<ul>
+	    <li>digital marketing<br>
+		January 2021 to Present</li>
+		<li>Google - Fundamentals of Digital Marketing</li>
+		
+</body>
+</html>
+	
+		
+	
